@@ -1,0 +1,372 @@
+2024-11-15 11:48:59,107 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 11:48:59,108 [INFO] [33mPress CTRL+C to quit[0m
+2024-11-15 11:48:59,111 [INFO]  * Restarting with stat
+2024-11-15 11:49:08,101 [WARNING]  * Debugger is active!
+2024-11-15 11:49:08,111 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 11:49:46,420 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app\\__init__.py', reloading
+2024-11-15 11:49:46,504 [INFO]  * Restarting with stat
+2024-11-15 11:49:55,659 [WARNING]  * Debugger is active!
+2024-11-15 11:49:55,666 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 11:52:56,014 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app.py', reloading
+2024-11-15 11:52:56,106 [INFO]  * Restarting with stat
+2024-11-15 11:53:05,447 [WARNING]  * Debugger is active!
+2024-11-15 11:53:05,454 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 11:53:37,017 [ERROR] Erro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'
+2024-11-15 11:53:37,058 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 11:53:37,059 [INFO] [33mPress CTRL+C to quit[0m
+2024-11-15 11:53:37,061 [INFO]  * Restarting with stat
+2024-11-15 11:53:46,039 [ERROR] Erro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'
+2024-11-15 11:53:46,068 [WARNING]  * Debugger is active!
+2024-11-15 11:53:46,076 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 11:55:11,327 [ERROR] Erro ao conectar com o banco de dados: bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+2024-11-15 11:55:11,392 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 11:55:11,393 [INFO] [33mPress CTRL+C to quit[0m
+2024-11-15 11:55:11,396 [INFO]  * Restarting with stat
+2024-11-15 11:55:20,601 [ERROR] Erro ao conectar com o banco de dados: bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+2024-11-15 11:55:20,664 [WARNING]  * Debugger is active!
+2024-11-15 11:55:20,681 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 11:55:43,811 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app\\__init__.py', reloading
+2024-11-15 11:55:44,254 [INFO]  * Restarting with stat
+2024-11-15 11:55:53,325 [ERROR] Erro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'
+2024-11-15 11:55:53,354 [WARNING]  * Debugger is active!
+2024-11-15 11:55:53,362 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 11:56:21,815 [ERROR] Erro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'
+2024-11-15 11:56:21,855 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 11:56:21,856 [INFO] [33mPress CTRL+C to quit[0m
+2024-11-15 11:56:21,859 [INFO]  * Restarting with stat
+2024-11-15 11:56:30,776 [ERROR] Erro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'
+2024-11-15 11:56:30,806 [WARNING]  * Debugger is active!
+2024-11-15 11:56:30,814 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 12:11:56,717 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app.py', reloading
+2024-11-15 12:11:56,831 [INFO]  * Restarting with stat
+2024-11-15 12:12:06,336 [ERROR] 1mErro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'
+2024-11-15 12:12:06,370 [WARNING]  * Debugger is active!
+2024-11-15 12:12:06,379 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 12:12:11,451 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app.py', reloading
+2024-11-15 12:12:11,573 [INFO]  * Restarting with stat
+2024-11-15 12:12:20,778 [ERROR] Erro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'
+2024-11-15 12:12:20,827 [WARNING]  * Debugger is active!
+2024-11-15 12:12:20,835 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 12:16:20,261 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app.py', reloading
+2024-11-15 12:16:20,374 [INFO]  * Restarting with stat
+2024-11-15 12:31:29,983 [ERROR] [31mErro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'[0m
+2024-11-15 12:31:30,024 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 12:31:30,025 [INFO] [33mPress CTRL+C to quit[0m
+2024-11-15 12:31:30,027 [INFO]  * Restarting with stat
+2024-11-15 12:31:38,918 [ERROR] [31mErro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'[0m
+2024-11-15 12:31:38,946 [WARNING]  * Debugger is active!
+2024-11-15 12:31:38,954 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 12:41:41,040 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app.py', reloading
+2024-11-15 12:41:41,178 [INFO]  * Restarting with stat
+2024-11-15 12:41:56,230 [ERROR] [31mErro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'[0m
+2024-11-15 12:41:56,281 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 12:41:56,282 [INFO] [33mPress CTRL+C to quit[0m
+2024-11-15 12:41:56,284 [INFO]  * Restarting with stat
+2024-11-15 12:42:05,282 [ERROR] [31mErro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'[0m
+2024-11-15 12:42:05,312 [WARNING]  * Debugger is active!
+2024-11-15 12:42:05,319 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 12:42:16,403 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app.py', reloading
+2024-11-15 12:42:16,506 [INFO]  * Restarting with stat
+2024-11-15 12:42:25,686 [ERROR] [31mErro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'[0m
+2024-11-15 12:42:25,714 [WARNING]  * Debugger is active!
+2024-11-15 12:42:25,721 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 12:42:38,124 [ERROR] [31mErro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'[0m
+2024-11-15 12:52:47,497 [ERROR] [31mErro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'[0m
+2024-11-15 12:52:47,553 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 12:52:47,553 [INFO] [33mPress CTRL+C to quit[0m
+2024-11-15 12:52:47,557 [INFO]  * Restarting with stat
+2024-11-15 12:52:56,456 [ERROR] [31mErro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'[0m
+2024-11-15 12:52:56,482 [WARNING]  * Debugger is active!
+2024-11-15 12:52:56,494 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 12:53:30,789 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app.py', reloading
+2024-11-15 12:53:30,900 [INFO]  * Restarting with stat
+2024-11-15 12:53:40,095 [WARNING]  * Debugger is active!
+2024-11-15 12:53:40,103 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 12:53:43,144 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app\\__init__.py', reloading
+2024-11-15 12:53:43,249 [INFO]  * Restarting with stat
+2024-11-15 12:54:15,428 [ERROR] [31mErro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'[0m
+2024-11-15 12:54:15,466 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 12:54:15,467 [INFO] [33mPress CTRL+C to quit[0m
+2024-11-15 12:54:15,469 [INFO]  * Restarting with stat
+2024-11-15 12:54:24,377 [ERROR] [31mErro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'[0m
+2024-11-15 12:54:24,409 [WARNING]  * Debugger is active!
+2024-11-15 12:54:24,416 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 12:54:41,624 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app.py', reloading
+2024-11-15 12:54:41,723 [INFO]  * Restarting with stat
+2024-11-15 12:54:50,704 [ERROR] [31mErro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'[0m
+2024-11-15 12:54:50,734 [WARNING]  * Debugger is active!
+2024-11-15 12:54:50,745 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 12:54:52,791 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app.py', reloading
+2024-11-15 12:54:52,880 [INFO]  * Restarting with stat
+2024-11-15 12:55:01,874 [ERROR] [31mErro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'[0m
+2024-11-15 12:55:01,906 [WARNING]  * Debugger is active!
+2024-11-15 12:55:01,915 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 12:55:23,170 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app\\__init__.py', reloading
+2024-11-15 12:55:23,255 [INFO]  * Restarting with stat
+2024-11-15 12:56:58,865 [ERROR] [31mErro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'[0m
+2024-11-15 12:57:07,118 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 12:57:07,119 [INFO] [33mPress CTRL+C to quit[0m
+2024-11-15 12:57:07,121 [INFO]  * Restarting with stat
+2024-11-15 12:57:07,798 [ERROR] [31mErro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'[0m
+2024-11-15 12:57:16,035 [WARNING]  * Debugger is active!
+2024-11-15 12:57:16,045 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 12:57:22,110 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app\\__init__.py', reloading
+2024-11-15 12:57:22,207 [INFO]  * Restarting with stat
+2024-11-15 12:57:22,933 [ERROR] [31mErro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'[0m
+2024-11-15 12:57:22,962 [WARNING]  * Debugger is active!
+2024-11-15 12:57:22,972 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 12:57:26,017 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app\\__init__.py', reloading
+2024-11-15 12:57:26,104 [INFO]  * Restarting with stat
+2024-11-15 12:57:26,881 [ERROR] [31mErro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'[0m
+2024-11-15 12:57:26,909 [WARNING]  * Debugger is active!
+2024-11-15 12:57:26,919 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 12:57:28,958 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app\\__init__.py', reloading
+2024-11-15 12:57:29,047 [INFO]  * Restarting with stat
+2024-11-15 12:57:38,012 [ERROR] [31mErro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'[0m
+2024-11-15 12:57:38,037 [WARNING]  * Debugger is active!
+2024-11-15 12:57:38,047 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 12:57:43,101 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app\\__init__.py', reloading
+2024-11-15 12:57:43,225 [INFO]  * Restarting with stat
+2024-11-15 12:57:44,002 [ERROR] [31mErro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'[0m
+2024-11-15 12:57:44,030 [WARNING]  * Debugger is active!
+2024-11-15 12:57:44,038 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 12:57:48,516 [ERROR] [31mErro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'[0m
+2024-11-15 12:57:48,553 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 12:57:48,554 [INFO] [33mPress CTRL+C to quit[0m
+2024-11-15 12:57:48,556 [INFO]  * Restarting with stat
+2024-11-15 12:57:49,255 [ERROR] [31mErro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'[0m
+2024-11-15 12:57:49,280 [WARNING]  * Debugger is active!
+2024-11-15 12:57:49,290 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 13:05:08,871 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app\\__init__.py', reloading
+2024-11-15 13:05:08,946 [INFO]  * Restarting with stat
+2024-11-15 13:05:42,308 [ERROR] [31mErro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'[0m
+2024-11-15 13:05:42,353 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 13:05:42,354 [INFO] [33mPress CTRL+C to quit[0m
+2024-11-15 13:05:42,357 [INFO]  * Restarting with stat
+2024-11-15 13:05:51,281 [ERROR] [31mErro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'[0m
+2024-11-15 13:05:51,310 [WARNING]  * Debugger is active!
+2024-11-15 13:05:51,318 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 13:06:39,063 [ERROR] [31mErro ao conectar com o banco de dados: bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}[0m
+2024-11-15 13:06:39,140 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 13:06:39,141 [INFO] [33mPress CTRL+C to quit[0m
+2024-11-15 13:06:39,145 [INFO]  * Restarting with stat
+2024-11-15 13:06:48,318 [ERROR] [31mErro ao conectar com o banco de dados: bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}[0m
+2024-11-15 13:06:48,354 [WARNING]  * Debugger is active!
+2024-11-15 13:06:48,362 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 13:07:06,488 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app.py', reloading
+2024-11-15 13:07:07,044 [INFO]  * Restarting with stat
+2024-11-15 13:07:20,026 [ERROR] [31mErro ao conectar com o banco de dados: bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}[0m
+2024-11-15 13:07:20,064 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 13:07:20,064 [INFO] [33mPress CTRL+C to quit[0m
+2024-11-15 13:10:41,564 [ERROR] [31mErro ao conectar com o banco de dados: bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}[0m
+2024-11-15 13:10:41,619 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 13:10:41,620 [INFO] [33mPress CTRL+C to quit[0m
+2024-11-15 13:14:02,630 [ERROR] [31mErro ao conectar com o banco de dados: bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}[0m
+2024-11-15 13:14:02,636 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 13:14:02,637 [INFO] [33mPress CTRL+C to quit[0m
+2024-11-15 13:15:34,608 [ERROR] [31mErro ao conectar com o banco de dados: bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}[0m
+2024-11-15 13:15:34,659 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 13:15:34,660 [INFO] [33mPress CTRL+C to quit[0m
+2024-11-15 13:15:34,663 [INFO]  * Restarting with stat
+2024-11-15 13:15:43,828 [ERROR] [31mErro ao conectar com o banco de dados: bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}[0m
+2024-11-15 13:15:43,862 [WARNING]  * Debugger is active!
+2024-11-15 13:15:43,872 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 13:16:32,393 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app.py', reloading
+2024-11-15 13:16:33,021 [INFO]  * Restarting with stat
+2024-11-15 13:16:42,442 [ERROR] [31mErro ao conectar com o banco de dados: bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}[0m
+2024-11-15 13:16:42,472 [WARNING]  * Debugger is active!
+2024-11-15 13:16:42,481 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 13:17:07,650 [INFO] Servidor iniciado com sucesso no endereço http://localhost:5000
+2024-11-15 13:20:23,430 [ERROR] [31mErro ao conectar com o banco de dados: bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}[0m
+2024-11-15 13:20:23,532 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 13:20:23,533 [INFO] [33mPress CTRL+C to quit[0m
+2024-11-15 13:20:23,536 [INFO]  * Restarting with stat
+2024-11-15 13:20:32,722 [ERROR] [31mErro ao conectar com o banco de dados: bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}[0m
+2024-11-15 13:20:32,750 [WARNING]  * Debugger is active!
+2024-11-15 13:20:32,758 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 13:20:55,012 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app.py', reloading
+2024-11-15 13:20:55,337 [INFO]  * Restarting with stat
+2024-11-15 13:21:04,782 [ERROR] [31mErro ao conectar com o banco de dados: bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}[0m
+2024-11-15 13:21:04,827 [WARNING]  * Debugger is active!
+2024-11-15 13:21:04,837 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 13:22:22,447 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app\\__init__.py', reloading
+2024-11-15 13:22:22,973 [INFO]  * Restarting with stat
+2024-11-15 13:22:32,080 [ERROR] [31mErro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'[0m
+2024-11-15 13:22:32,106 [WARNING]  * Debugger is active!
+2024-11-15 13:22:32,115 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 13:22:39,186 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app\\__init__.py', reloading
+2024-11-15 13:22:39,476 [INFO]  * Restarting with stat
+2024-11-15 13:22:48,895 [ERROR] [31mErro ao conectar com o banco de dados: bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}[0m
+2024-11-15 13:22:48,924 [WARNING]  * Debugger is active!
+2024-11-15 13:22:48,934 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 13:23:23,151 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app\\__init__.py', reloading
+2024-11-15 13:23:23,691 [INFO]  * Restarting with stat
+2024-11-15 13:23:31,027 [INFO] Servidor iniciado com sucesso no endereço http://localhost:5000
+2024-11-15 13:23:45,528 [ERROR] [31mErro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'[0m
+2024-11-15 13:23:45,577 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 13:23:45,579 [INFO] [33mPress CTRL+C to quit[0m
+2024-11-15 13:23:45,582 [INFO]  * Restarting with stat
+2024-11-15 13:23:54,539 [ERROR] [31mErro ao conectar com o banco de dados: 'NoneType' object has no attribute 'list_collection_names'[0m
+2024-11-15 13:23:54,591 [WARNING]  * Debugger is active!
+2024-11-15 13:23:54,599 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 13:25:31,296 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app\\__init__.py', reloading
+2024-11-15 13:25:31,421 [INFO]  * Restarting with stat
+2024-11-15 13:25:51,393 [ERROR] [31mErro ao conectar com o banco de dados: bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}[0m
+2024-11-15 13:25:51,436 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 13:25:51,437 [INFO] [33mPress CTRL+C to quit[0m
+2024-11-15 13:25:51,440 [INFO]  * Restarting with stat
+2024-11-15 13:26:00,651 [ERROR] [31mErro ao conectar com o banco de dados: bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}[0m
+2024-11-15 13:26:00,696 [WARNING]  * Debugger is active!
+2024-11-15 13:26:00,704 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 13:26:42,058 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app\\__init__.py', reloading
+2024-11-15 13:26:42,360 [INFO]  * Restarting with stat
+2024-11-15 13:26:51,825 [INFO] [32mConexão com MongoDB realizada com sucesso![0m
+2024-11-15 13:26:51,852 [WARNING]  * Debugger is active!
+2024-11-15 13:26:51,861 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 13:50:07,887 [INFO] [32mConexão com MongoDB realizada com sucesso![0m
+2024-11-15 13:50:07,950 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 13:50:07,952 [INFO] [33mPress CTRL+C to quit[0m
+2024-11-15 13:50:07,956 [INFO]  * Restarting with stat
+2024-11-15 13:50:18,123 [INFO] [32mConexão com MongoDB realizada com sucesso![0m
+2024-11-15 13:50:18,150 [WARNING]  * Debugger is active!
+2024-11-15 13:50:18,181 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 13:54:30,390 [INFO] 127.0.0.1 - - [15/Nov/2024 13:54:30] "[31m[1mPOST /users/register HTTP/1.1[0m" 400 -
+2024-11-15 13:55:03,616 [INFO] 127.0.0.1 - - [15/Nov/2024 13:55:03] "[31m[1mPOST /users/register HTTP/1.1[0m" 400 -
+2024-11-15 13:57:16,925 [INFO] 127.0.0.1 - - [15/Nov/2024 13:57:16] "[31m[1mPOST /users/register HTTP/1.1[0m" 400 -
+2024-11-15 13:57:47,434 [INFO] 127.0.0.1 - - [15/Nov/2024 13:57:47] "[31m[1mPOST /users/register HTTP/1.1[0m" 400 -
+2024-11-15 14:00:21,963 [INFO] 127.0.0.1 - - [15/Nov/2024 14:00:21] "[31m[1mPOST /users/register HTTP/1.1[0m" 400 -
+2024-11-15 14:00:31,052 [INFO] 127.0.0.1 - - [15/Nov/2024 14:00:31] "[31m[1mPOST /users/register HTTP/1.1[0m" 400 -
+2024-11-15 14:02:27,915 [INFO] 127.0.0.1 - - [15/Nov/2024 14:02:27] "[31m[1mPOST /users/register HTTP/1.1[0m" 400 -
+2024-11-15 14:02:48,232 [INFO] 127.0.0.1 - - [15/Nov/2024 14:02:48] "[31m[1mPOST /users/register HTTP/1.1[0m" 400 -
+2024-11-15 14:04:08,467 [INFO] 127.0.0.1 - - [15/Nov/2024 14:04:08] "[33mPOST /register HTTP/1.1[0m" 404 -
+2024-11-15 14:07:57,661 [INFO] 127.0.0.1 - - [15/Nov/2024 14:07:57] "[31m[1mPOST /users/register HTTP/1.1[0m" 400 -
+2024-11-15 14:08:12,085 [INFO] 127.0.0.1 - - [15/Nov/2024 14:08:12] "[31m[1mPOST /users/register HTTP/1.1[0m" 400 -
+2024-11-15 14:10:52,103 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app\\controllers\\userController.py', reloading
+2024-11-15 14:10:52,827 [INFO]  * Restarting with stat
+2024-11-15 14:11:02,884 [INFO] [32mConexão com MongoDB realizada com sucesso![0m
+2024-11-15 14:11:02,940 [WARNING]  * Debugger is active!
+2024-11-15 14:11:02,948 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 14:11:08,792 [INFO] 127.0.0.1 - - [15/Nov/2024 14:11:08] "[31m[1mPOST /users/register HTTP/1.1[0m" 400 -
+2024-11-15 14:11:33,048 [INFO] 127.0.0.1 - - [15/Nov/2024 14:11:33] "[31m[1mPOST /users/register HTTP/1.1[0m" 400 -
+2024-11-15 14:12:59,163 [INFO] 127.0.0.1 - - [15/Nov/2024 14:12:59] "[31m[1mPOST /users/register HTTP/1.1[0m" 400 -
+2024-11-15 14:13:30,617 [INFO] 127.0.0.1 - - [15/Nov/2024 14:13:30] "[35m[1mPOST /users/register HTTP/1.1[0m" 201 -
+2024-11-15 14:15:37,674 [INFO] 127.0.0.1 - - [15/Nov/2024 14:15:37] "[35m[1mPOST /users/login HTTP/1.1[0m" 500 -
+2024-11-15 14:17:16,828 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app\\controllers\\userController.py', reloading
+2024-11-15 14:17:17,403 [INFO]  * Restarting with stat
+2024-11-15 14:17:26,830 [INFO] [32mConexão com MongoDB realizada com sucesso![0m
+2024-11-15 14:17:26,887 [WARNING]  * Debugger is active!
+2024-11-15 14:17:26,899 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 14:17:47,446 [INFO] 127.0.0.1 - - [15/Nov/2024 14:17:47] "[35m[1mPOST /users/login HTTP/1.1[0m" 500 -
+2024-11-15 14:19:14,067 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app\\services\\userService.py', reloading
+2024-11-15 14:19:14,657 [INFO]  * Restarting with stat
+2024-11-15 14:19:56,999 [INFO] [32mConexão com MongoDB realizada com sucesso![0m
+2024-11-15 14:19:57,042 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 14:19:57,043 [INFO] [33mPress CTRL+C to quit[0m
+2024-11-15 14:19:57,046 [INFO]  * Restarting with stat
+2024-11-15 14:20:06,215 [INFO] [32mConexão com MongoDB realizada com sucesso![0m
+2024-11-15 14:20:06,272 [WARNING]  * Debugger is active!
+2024-11-15 14:20:06,288 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 14:20:06,630 [INFO] 127.0.0.1 - - [15/Nov/2024 14:20:06] "POST /users/login HTTP/1.1" 200 -
+2024-11-15 14:20:48,922 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app\\controllers\\userController.py', reloading
+2024-11-15 14:20:49,428 [INFO]  * Restarting with stat
+2024-11-15 14:20:58,683 [INFO] [32mConexão com MongoDB realizada com sucesso![0m
+2024-11-15 14:20:58,712 [WARNING]  * Debugger is active!
+2024-11-15 14:20:58,724 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 14:21:02,796 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app\\controllers\\userController.py', reloading
+2024-11-15 14:21:03,319 [INFO]  * Restarting with stat
+2024-11-15 14:22:01,184 [INFO] [32mConexão com MongoDB realizada com sucesso![0m
+2024-11-15 14:22:01,228 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 14:22:01,229 [INFO] [33mPress CTRL+C to quit[0m
+2024-11-15 14:22:01,233 [INFO]  * Restarting with stat
+2024-11-15 14:22:10,386 [INFO] [32mConexão com MongoDB realizada com sucesso![0m
+2024-11-15 14:22:10,426 [WARNING]  * Debugger is active!
+2024-11-15 14:22:10,436 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 14:22:21,212 [INFO] 127.0.0.1 - - [15/Nov/2024 14:22:21] "[35m[1mPOST /users/login HTTP/1.1[0m" 500 -
+2024-11-15 14:22:58,605 [INFO] 127.0.0.1 - - [15/Nov/2024 14:22:58] "[35m[1mPOST /users/login HTTP/1.1[0m" 500 -
+2024-11-15 14:23:27,551 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app\\controllers\\userController.py', reloading
+2024-11-15 14:23:28,109 [INFO]  * Restarting with stat
+2024-11-15 14:23:37,537 [INFO] [32mConexão com MongoDB realizada com sucesso![0m
+2024-11-15 14:23:37,583 [WARNING]  * Debugger is active!
+2024-11-15 14:23:37,591 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 14:24:35,948 [INFO] 127.0.0.1 - - [15/Nov/2024 14:24:35] "[35m[1mPOST /users/login HTTP/1.1[0m" 500 -
+2024-11-15 14:25:10,735 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app\\controllers\\userController.py', reloading
+2024-11-15 14:25:11,350 [INFO]  * Restarting with stat
+2024-11-15 14:25:20,742 [INFO] [32mConexão com MongoDB realizada com sucesso![0m
+2024-11-15 14:25:20,785 [WARNING]  * Debugger is active!
+2024-11-15 14:25:20,792 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 14:25:37,128 [INFO] 127.0.0.1 - - [15/Nov/2024 14:25:37] "[35m[1mPOST /users/login HTTP/1.1[0m" 500 -
+2024-11-15 14:28:07,859 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app\\controllers\\userController.py', reloading
+2024-11-15 14:28:08,446 [INFO]  * Restarting with stat
+2024-11-15 14:28:17,831 [INFO] [32mConexão com MongoDB realizada com sucesso![0m
+2024-11-15 14:28:17,853 [WARNING]  * Debugger is active!
+2024-11-15 14:28:17,861 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 14:28:37,144 [INFO] 127.0.0.1 - - [15/Nov/2024 14:28:37] "[35m[1mPOST /users/login HTTP/1.1[0m" 500 -
+2024-11-15 14:30:30,438 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app\\controllers\\userController.py', reloading
+2024-11-15 14:30:30,968 [INFO]  * Restarting with stat
+2024-11-15 14:32:26,634 [INFO] [32mConexão com MongoDB realizada com sucesso![0m
+2024-11-15 14:32:26,679 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 14:32:26,680 [INFO] [33mPress CTRL+C to quit[0m
+2024-11-15 14:32:26,683 [INFO]  * Restarting with stat
+2024-11-15 14:32:35,941 [INFO] [32mConexão com MongoDB realizada com sucesso![0m
+2024-11-15 14:32:35,974 [WARNING]  * Debugger is active!
+2024-11-15 14:32:35,982 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 14:33:04,461 [INFO] 127.0.0.1 - - [15/Nov/2024 14:33:04] "POST /users/login HTTP/1.1" 200 -
+2024-11-15 14:33:38,940 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app\\controllers\\userController.py', reloading
+2024-11-15 14:33:39,516 [INFO]  * Restarting with stat
+2024-11-15 14:33:48,723 [INFO] [32mConexão com MongoDB realizada com sucesso![0m
+2024-11-15 14:33:48,771 [WARNING]  * Debugger is active!
+2024-11-15 14:33:48,778 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 14:33:51,061 [INFO] 127.0.0.1 - - [15/Nov/2024 14:33:51] "POST /users/login HTTP/1.1" 200 -
+2024-11-15 14:46:16,577 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app\\services\\analysisService.py', reloading
+2024-11-15 14:46:17,125 [INFO]  * Restarting with stat
+2024-11-15 14:46:27,135 [INFO] [32mConexão com MongoDB realizada com sucesso![0m
+2024-11-15 14:46:27,182 [WARNING]  * Debugger is active!
+2024-11-15 14:46:27,193 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 14:48:03,608 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app\\controllers\\analysisController.py', reloading
+2024-11-15 14:48:03,981 [INFO]  * Restarting with stat
+2024-11-15 14:48:13,209 [INFO] [32mConexão com MongoDB realizada com sucesso![0m
+2024-11-15 14:48:13,238 [WARNING]  * Debugger is active!
+2024-11-15 14:48:13,245 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 14:48:14,268 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app\\controllers\\analysisController.py', reloading
+2024-11-15 14:48:14,768 [INFO]  * Restarting with stat
+2024-11-15 14:48:23,973 [INFO] [32mConexão com MongoDB realizada com sucesso![0m
+2024-11-15 14:48:24,002 [WARNING]  * Debugger is active!
+2024-11-15 14:48:24,010 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 14:48:29,109 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app\\controllers\\analysisController.py', reloading
+2024-11-15 14:48:29,559 [INFO]  * Restarting with stat
+2024-11-15 14:48:38,794 [INFO] [32mConexão com MongoDB realizada com sucesso![0m
+2024-11-15 14:48:38,831 [WARNING]  * Debugger is active!
+2024-11-15 14:48:38,842 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 14:49:45,742 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app\\controllers\\analysisController.py', reloading
+2024-11-15 14:49:46,255 [INFO]  * Restarting with stat
+2024-11-15 14:49:55,827 [INFO] [32mConexão com MongoDB realizada com sucesso![0m
+2024-11-15 14:49:55,878 [WARNING]  * Debugger is active!
+2024-11-15 14:49:55,886 [INFO]  * Debugger PIN: 145-528-215
+2024-11-15 14:49:57,923 [INFO]  * Detected change in 'C:\\Users\\valmi\\Desktop\\API_VeridiOculi\\app\\controllers\\analysisController.py', reloading
+2024-11-15 14:49:58,419 [INFO]  * Restarting with stat
+2024-11-15 14:50:07,627 [INFO] [32mConexão com MongoDB realizada com sucesso![0m
+2024-11-15 14:50:07,651 [WARNING]  * Debugger is active!
+2024-11-15 14:50:07,660 [INFO]  * Debugger PIN: 145-528-215

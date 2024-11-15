@@ -1,0 +1,7 @@
+Flask==2.3.2                      # Framework principal para a aplicação web
+Flask-PyMongo==2.3.0              # Integração do Flask com MongoDB
+pymongo[srv]==4.5.0               # Driver oficial do MongoDB com suporte a conexões MongoDB Atlas (SRV)
+bcrypt==4.0.1                     # Biblioteca para hashing seguro de senhas
+PyJWT==2.7.0                      # Biblioteca para criação e decodificação de tokens JWT
+boto3==1.28.80                    # Cliente Python para interagir com serviços AWS, como S3
+fpdf==1.7.2                       # Biblioteca para geração de PDFs
