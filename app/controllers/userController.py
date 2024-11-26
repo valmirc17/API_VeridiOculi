@@ -20,6 +20,16 @@ def login():
     data = request.json
     token = authenticate_user(data["email"], data["password"])
     user = User.find_by_email(data['email'])
+
     if token:
-        return jsonify({'message': 'Login realizado com sucesso', 'token': token, 'user': {'nome':user['nome'],'email': user['email']}}), 200
+        return jsonify({
+            'message': 'Login realizado com sucesso',
+            'token': token,  # Retornando o token JWT gerado
+            'user': {
+                'nome': user['nome'],
+                'email': user['email']
+            }
+        }), 200
+
     return jsonify({"error": "Credenciais inválidas!"}), 401
+

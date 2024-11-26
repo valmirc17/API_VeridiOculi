@@ -25,11 +25,11 @@ def create_app():
 
     # Registrando os controladores nas rotas
     from app.controllers.userController import user_bp
-    # from app.controllers.analysisController import analysis_bp
+    from app.controllers.analysisController import analysis_bp
     # from app.controllers.reportController import report_bp
 
     app.register_blueprint(user_bp, url_prefix="/users")
-    # app.register_blueprint(analysis_bp, url_prefix="/analyses")
+    app.register_blueprint(analysis_bp, url_prefix="/analysis")
     # app.register_blueprint(report_bp, url_prefix="/reports")
 
     with app.app_context():

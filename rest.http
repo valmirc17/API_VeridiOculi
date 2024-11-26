@@ -1,17 +1,29 @@
-POST http://127.0.0.1:5000/users/register
+### Variables
+@apiurl = http://127.0.0.1:5000/
+
+### POSTS
+
+POST {{apiurl}}/users/register
 Content-Type: application/json
 
 {
-    "email":"teste@teste.com",
+    "email":"teste2@teste.com",
     "password":"teste"
 }
 
 ###
 
-POST http://127.0.0.1:5000/users/login
+POST {{apiurl}}/users/login
 Content-Type: application/json
 
 {
-    "email":"teste@teste.com",
+    "email":"teste2@teste.com",
     "password":"teste"
 }
+
+### GETS
+
+GET {{apiurl}}/analysis
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjczN2U2OTFlODY2MGVkNDI5ZWY2ZTk3In0.95o4ixshMWAEX6TEsutWKjTmS8MGqlSCBkpNqnzLE5s
+Content-Type: application/json
+
