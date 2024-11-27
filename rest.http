@@ -17,13 +17,17 @@ POST {{apiurl}}/users/login
 Content-Type: application/json
 
 {
-    "email":"teste2@teste.com",
+    "email":"teste@teste.com",
     "password":"teste"
 }
 
 ### GETS
 
 GET {{apiurl}}/analysis
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjczN2U2OTFlODY2MGVkNDI5ZWY2ZTk3In0.95o4ixshMWAEX6TEsutWKjTmS8MGqlSCBkpNqnzLE5s
-Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjczNzgxM2FhYTNhMjc2Y2MxMDI0MzI2In0.-zec2AE9QpqvUBr9Dz0gCzyvC8paXr4fJP02O0_gGvk
+
+###
+
+GET {{apiurl}}/analysis/6737dc4d44f287ea03f4ae22
+
 
